@@ -2,10 +2,10 @@
 # My Coding Space 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Python+Developer;Duck+Conoisseur;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Python+Developer;Duck+Conoisseur;)
 
 
-<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="250">
+
 
 </div>
 
