@@ -12,7 +12,7 @@
 ## 🤖 About Me
 
 ```python
-class AIEngineer:
+class SoftwareDev:
     def __init__(self):
         self.name = "Xinshen Xiang Chen"
         self.role = "Student at UPC-FIB"
@@ -22,6 +22,6 @@ class AIEngineer:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = AIEngineer()
+me = SoftwareDev()
 me.say_hi()
 ```
