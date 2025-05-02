@@ -25,8 +25,8 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=%24+whoami%3A+Python+Developer;%24+whoami%3A+AI+Engineer;%24+whoami%3A+Life+Enthusiast"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=30&size=11&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks for dropping by! Let's build something amazing together."/>
 
 
 </div>
