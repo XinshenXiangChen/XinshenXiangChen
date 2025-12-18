@@ -6,6 +6,6 @@ Requests from scratch
 Improve: NEAT, Diffusion, TetrEsoLang
 
 Future projects:
-Pytorch visualizer
+Pytorch visualizer, Guess the ingredients, 
 
 
