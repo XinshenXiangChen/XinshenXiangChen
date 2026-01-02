@@ -1,12 +1,16 @@
 Current projects:
 MuVault,
-Open-cv-full-tracker,
-Requests from scratch,
-Guess the ingredients
+Guess the ingredients,
+Pytorch visualizer,
+Turn based combat mod,
 
 Improve: NEAT, Diffusion, TetrEsoLang
 
-Future projects:
-Pytorch visualizer, 
+Set aside (for now): 
+Requests from scratch, 
+Open-cv-full-tracker
+
+Future projects: 
+Amazon stock (moving averages)
 
 
