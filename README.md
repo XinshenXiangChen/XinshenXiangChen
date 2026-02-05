@@ -10,7 +10,5 @@ Set aside (for now):
 Requests from scratch, 
 Open-cv-full-tracker
 
-Future projects: 
-Amazon stock (moving averages)
 
 
